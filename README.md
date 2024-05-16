@@ -4,3 +4,4 @@
 # Aluno: Luiz
 # Aula de Python
 # Seja bem vindo
+# Tudo bem com voce?
