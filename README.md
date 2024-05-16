@@ -3,4 +3,4 @@
 # Professor: Jocimar Galante
 # Aluno: Luiz
 # Aula de Python
-# Seja bem vindo
+# Bom dia
